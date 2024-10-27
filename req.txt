@@ -1,0 +1,24 @@
+CUE: CRUD EN DJANGO
+DRILLING: INSERTANDO UN PRODUCTO EN LA APLICACIÓN
+Para resolver este ejercicio, anteriormente debe haber revisado la lectura y los videos del CUE: CRUD 
+en Django.
+EJERCICIO:
+Partiendo del ejercicio creado en el Rebound Exercise de este CUE:
+
+1. Realice la vista y el template (registrar_producto.html) necesario para ingresar un producto en la aplicación, y que se 
+guarden los datos en la base de datos, y así mismo se redireccione desde el ingreso de un 
+producto, hacia la visualización de toda la información de los productos. 
+El formulario, forms.py, de ingreso debe contener el siguiente aspecto
+
+                    Ingresar productos
+esta parte del formulaio esta dentro de un marco blanco con borde gris.
+            Nombre del producto   (campo para ingresar el nombre)
+            Precio   (campo para ingresar el precio)
+            Descripcion   (campo para ingresar la descripcion)
+            Vencimiento   (interfaz para ingresar la fecha)
+
+                            Boton "Enviar"
+acá termina el marco blanco con borde gris
+
+Enlace con el texto "Ir a información de los productos-->"
+
